@@ -7,19 +7,15 @@ Objective:
 			The objective of this end-to-end project is to build an ML model to predict the prices of the Real Estate in Singapore.
 
 Explanation: 
-
-			we find the type of model to be used: supervised, unsupervised or reinforcement learning. Our ML model is a supervised learning model.
-
-			Next, would it be a Classification or Linear Regression model? The goals of this project demand a Linear Regression Model.
-
-			Finally, Is this a batch learning or Online Learning Model? Since we have pre-determined data, we would be choosing batch learning. If I was to work on spam detection 
-			
-			in emails, the data would be constantly getting renewed and there I would choose Online Learning.
-			
+we find the type of model to be used: supervised, unsupervised or reinforcement learning. Our ML model is a supervised learning model.
+Next, would it be a Classification or Linear Regression model? The goals of this project demand a Linear Regression Model.
+Finally, Is this a batch learning or Online Learning Model? Since we have pre-determined data, we would be choosing batch learning. If I was to work on spam detection for emails, the data would be constantly getting renewed and there I would choose Online Learning.
 
 I divide the dataset into training and testing data, train the data on three models, namely: Linear Regression, Decision Tree and Random Forest. The results for the same are shown below.
+
 I hae also used pipelines to automate the workflow, and the joblib library to dump and load the data.
-OUTPUT 
+
+
 I obtain these outputs:
 
 Model Outputs
